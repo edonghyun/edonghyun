@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1584" height="396" viewBox="0 0 1584 396" role="img" aria-labelledby="title desc">
+  <title id="title">Donghyun Lee — From idea to production.</title>
+  <desc id="desc">Navy and teal profile banner. Product-minded Backend Developer. Text sits to the right of the profile photo area.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0.7">
+      <stop stop-color="#111c30"/>
+      <stop offset="0.56" stop-color="#102a3a"/>
+      <stop offset="1" stop-color="#10504e"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#57ddc0" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#57ddc0" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#c8fff0" opacity=".11"/>
+    </pattern>
+  </defs>
+  <path fill="url(#bg)" d="M0 0h1584v396H0z"/>
+  <circle cx="1410" cy="80" r="420" fill="url(#glow)"/>
+  <path fill="url(#dots)" d="M1200 0h384v396h-384z"/>
+  <g fill="none" stroke="#6fe0c5">
+    <circle cx="160" cy="198" r="205" opacity=".09"/>
+    <circle cx="160" cy="198" r="154" opacity=".12"/>
+    <circle cx="160" cy="198" r="104" opacity=".12"/>
+    <path d="M0 115h235l82 83h104M0 280h235l82-82" opacity=".26"/>
+    <path d="M1343-90a330 330 0 0 1 330 330" opacity=".1"/>
+    <path d="M1310-90a365 365 0 0 1 365 365" opacity=".07"/>
+  </g>
+  <g fill="#6fe0c5">
+    <circle cx="235" cy="115" r="4" opacity=".7"/>
+    <circle cx="317" cy="198" r="5" opacity=".8"/>
+    <circle cx="235" cy="280" r="4" opacity=".45"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="492" y="91" fill="#8be5d1" font-size="18" font-weight="700" letter-spacing="4">DONGHYUN LEE</text>
+    <text x="488" y="172" fill="#f3f8fb" font-size="66" font-weight="700" letter-spacing="-2">From idea</text>
+    <text x="488" y="245" fill="#f3f8fb" font-size="66" font-weight="700" letter-spacing="-2">to production.</text>
+    <path d="M492 282h42" stroke="#70dfc4" stroke-width="3"/>
+    <text x="492" y="322" fill="#bed3dc" font-size="19" letter-spacing=".4">Product-minded Backend Developer</text>
+  </g>
+</svg>
