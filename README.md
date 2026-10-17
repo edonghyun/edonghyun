@@ -12,8 +12,8 @@
 ## 이전 프로젝트와 작은 도구
 
 - [vue-easy-highlight](https://github.com/edonghyun/vue-easy-highlight): Vue 3 텍스트 강조 컴포넌트.
-- [Hoogle](https://github.com/edonghyun/hoogle): Doc2Vec 기반 기사 검색 프로젝트. 실행·데모 안내 정비 예정.
-- [영어 문제 생성 실험](https://github.com/edonghyun/auto-englishproblem-generator): Python·NLP 기반 프로토타입. 입출력 예시·실행 안내 정비 예정.
+- [Hoogle](https://github.com/edonghyun/hoogle): Doc2Vec 기반 기사 검색 팀 프로젝트의 개인 보관·정비본. 실행 환경 복원 필요.
+- [영어 문제 생성 실험](https://github.com/edonghyun/auto-englishproblem-generator): Python·NLP 기반 팀 프로토타입의 개인 보관·정비본. 모델·실행 환경 복원 필요.
 
 ## 학습 기록
 
