@@ -15,9 +15,15 @@ I also build service backends and developer tools.
 
 | Project | What it does |
 | --- | --- |
-| [TTYRoom](https://github.com/edonghyun/ttyroom) | A collaborative terminal built with Spring Boot, React, and a local PTY connector. [Watch the demo](https://github.com/edonghyun/ttyroom/tree/main/docs/demo) |
-| [Donghyun's Agent Tools](https://github.com/edonghyun/donghyuns-agent-tools) | Plugins for coding agents that support QA, UI reviews, PoC analysis, and specification management. |
-| [vue-easy-highlight](https://github.com/edonghyun/vue-easy-highlight) | A text-highlighting component for Vue 3. |
+| [TTYRoom](https://github.com/edonghyun/ttyroom) | Share local terminal sessions in the browser, with input control and reconnect recovery. Spring Boot · React · WebSocket · PTY. [Demo](https://github.com/edonghyun/ttyroom/tree/main/docs/demo) · [Design & tests](https://github.com/edonghyun/ttyroom/blob/main/docs/CONTRACTS.md) |
+| [Donghyun's Agent Tools](https://github.com/edonghyun/donghyuns-agent-tools) | Reusable coding-agent plugins for browser QA, UI comparisons, prototype intake, and keeping specifications aligned with code. [Plugin guide](https://github.com/edonghyun/donghyuns-agent-tools#plugins) |
+| [ledger-relay](https://github.com/edonghyun/ledger-relay) | A Java/Spring library that relays commands from a PostgreSQL outbox to TigerBeetle in order for each key, using ledger outcomes to decide what happens next. **In development.** [Sample shop](https://github.com/edonghyun/ledger-relay/tree/main/examples/shop) |
+
+For ledger-relay, I set the design direction and review the work; Claude Code writes the implementation, tests, and documentation.
+
+### Libraries
+
+- [vue-easy-highlight](https://github.com/edonghyun/vue-easy-highlight) · A text-highlighting component for Vue 3. Multiline highlight alignment remains a known issue.
 
 ### Earlier work & learning
 
