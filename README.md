@@ -24,7 +24,7 @@ For ledger-relay, I set the design direction and review the work; Claude Code wr
 
 ### Libraries
 
-- [vue-easy-highlight](https://github.com/edonghyun/vue-easy-highlight) · A text-highlighting component for Vue 3. Multiline highlight alignment remains a known issue.
+- [overlapmark](https://github.com/edonghyun/overlapmark) · Overlapping text highlights for vanilla JS, Vue, React and Svelte: the more highlights cover a spot, the darker it gets. Successor to vue-easy-highlight. [npm](https://www.npmjs.com/package/@overlapmark/core)
 
 ### Earlier work & learning
 
